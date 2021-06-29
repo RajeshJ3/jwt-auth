@@ -3,3 +3,6 @@ main
 
 # env file
 .env
+
+# ssl configs
+ssl/
